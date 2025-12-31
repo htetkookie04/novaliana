@@ -1,0 +1,230 @@
+.home-page {
+  min-height: 100vh;
+  background: var(--bg-primary);
+}
+
+/* Hero Section */
+.hero-section {
+  padding: 4rem 2rem;
+  background: linear-gradient(135deg, rgba(102, 126, 234, 0.05) 0%, rgba(118, 75, 162, 0.05) 100%);
+}
+
+.hero-content {
+  max-width: 900px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.hero-title {
+  font-size: 3.5rem;
+  font-weight: 700;
+  color: var(--text-primary);
+  margin-bottom: 1.5rem;
+  line-height: 1.2;
+  font-family: 'Inter', sans-serif;
+}
+
+.title-highlight {
+  background: var(--wotd-gradient);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.hero-subtitle {
+  font-size: 1.125rem;
+  color: var(--text-secondary);
+  margin-bottom: 2.5rem;
+  line-height: 1.6;
+  max-width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Search Bar */
+.hero-search-container {
+  display: flex;
+  gap: 1rem;
+  max-width: 900px;
+  margin: 0 auto 2rem;
+  align-items: center;
+  width: 100%;
+}
+
+.hero-search-bar {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  background: var(--bg-card) !important;
+  border: 2px solid var(--border-color);
+  border-radius: 12px;
+  padding: 0 1rem;
+  box-shadow: var(--shadow-md);
+  transition: var(--transition);
+}
+
+[data-theme="dark"] .hero-search-bar {
+  background: #000000 !important;
+}
+
+.hero-search-bar:focus-within {
+  border-color: var(--accent-primary);
+  box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.2), var(--shadow-lg);
+}
+
+.search-icon-left {
+  font-size: 1.25rem;
+  margin-right: 0.75rem;
+  opacity: 0.6;
+}
+
+.hero-search-input {
+  flex: 1;
+  border: none;
+  outline: none;
+  padding: 1rem 0;
+  font-size: 1rem;
+  color: var(--text-primary);
+  background: transparent;
+  font-family: 'Inter', sans-serif;
+}
+
+.hero-search-input::placeholder {
+  color: var(--text-tertiary);
+}
+
+.search-icon-right {
+  font-size: 1.125rem;
+  margin-left: 0.75rem;
+  opacity: 0.6;
+}
+
+.hero-search-btn {
+  background: var(--wotd-gradient);
+  color: white;
+  border: none;
+  border-radius: 12px;
+  padding: 1rem 2rem;
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: var(--transition);
+  white-space: nowrap;
+  box-shadow: var(--shadow-md);
+  font-family: 'Inter', sans-serif;
+}
+
+.hero-search-btn:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-lg);
+}
+
+.hero-search-btn:active {
+  transform: translateY(0);
+}
+
+/* Trending Section */
+.trending-section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.trending-label {
+  font-weight: 600;
+  color: var(--text-primary);
+  font-size: 1rem;
+}
+
+.trending-topics {
+  display: flex;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.trending-pill {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.625rem 1.25rem;
+  background: var(--bg-card);
+  border: 2px solid var(--border-color);
+  border-radius: 25px;
+  font-size: 0.875rem;
+  font-weight: 500;
+  color: var(--text-primary);
+  cursor: pointer;
+  transition: var(--transition);
+  box-shadow: var(--shadow-sm);
+  font-family: 'Inter', sans-serif;
+}
+
+.trending-pill:hover {
+  border-color: var(--pill-color);
+  background: rgba(102, 126, 234, 0.05);
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-md);
+}
+
+.trending-icon {
+  font-size: 1rem;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .hero-section {
+    padding: 3rem 1.5rem;
+  }
+
+  .hero-title {
+    font-size: 2.5rem;
+  }
+
+  .hero-subtitle {
+    font-size: 1rem;
+  }
+
+  .hero-search-container {
+    flex-direction: column;
+  }
+
+  .hero-search-bar {
+    width: 100%;
+  }
+
+  .hero-search-btn {
+    width: 100%;
+  }
+
+  .trending-section {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .trending-topics {
+    width: 100%;
+  }
+}
+
+@media (max-width: 480px) {
+  .hero-section {
+    padding: 2rem 1rem;
+  }
+
+  .hero-title {
+    font-size: 2rem;
+  }
+
+  .hero-subtitle {
+    font-size: 0.9375rem;
+  }
+
+  .trending-pill {
+    font-size: 0.8125rem;
+    padding: 0.5rem 1rem;
+  }
+}
+

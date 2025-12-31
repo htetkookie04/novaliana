@@ -1,0 +1,36 @@
+.breadcrumbs {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 1rem 0;
+  font-size: 0.875rem;
+  color: var(--text-secondary);
+}
+
+.breadcrumb-link {
+  background: none;
+  border: none;
+  color: var(--text-secondary);
+  cursor: pointer;
+  padding: 0;
+  font-size: 0.875rem;
+  transition: var(--transition);
+  font-family: 'Inter', sans-serif;
+}
+
+.breadcrumb-link:hover {
+  color: var(--accent-primary);
+  text-decoration: underline;
+}
+
+.breadcrumb-separator {
+  color: var(--text-tertiary);
+  font-size: 0.75rem;
+}
+
+.breadcrumb-current {
+  color: var(--text-primary);
+  font-weight: 500;
+  font-family: 'Noto Sans KR', sans-serif;
+}
+
