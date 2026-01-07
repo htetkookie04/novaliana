@@ -123,15 +123,6 @@ export default function WordDetail({ word, dictionary, darkMode, onNavigate, onT
                 </button>
               </div>
               <div className="word-header-actions">
-                <button
-                  className={`bookmark-button ${isFavorite ? 'active' : ''}`}
-                  onClick={handleToggleFavorite}
-                  aria-label="Bookmark"
-                >
-                  <svg width="24" height="24" viewBox="0 0 24 24" fill={isFavorite ? 'currentColor' : 'none'} stroke="currentColor" strokeWidth="2">
-                    <path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/>
-                  </svg>
-                </button>
                 <button className="share-button" onClick={handleShare} aria-label="Share">
                   <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
                     <circle cx="18" cy="5" r="3"/>

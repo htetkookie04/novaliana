@@ -26844,5 +26844,992 @@
     "category": "Numbers",
     "koreanExample": "수학모델링을 수행합니다.",
     "englishExample": "I perform mathematical modeling."
+  },
+  {
+    "korean": "다차원적인",
+    "myanmar": "မျိုးစုံ အတိုင်းအတာ",
+    "category": "Advanced adjectives",
+    "koreanExample": "다차원적인 접근이 필요합니다.",
+    "englishExample": "A multidimensional approach is needed."
+  },
+  {
+    "korean": "생태계보전",
+    "myanmar": "ဂေဟစနစ် ထိန်းသိမ်းမှု",
+    "category": "Animals",
+    "koreanExample": "생태계보전을 추진합니다.",
+    "englishExample": "I promote ecosystem conservation."
+  },
+  {
+    "korean": "현대미술비평",
+    "myanmar": "ခေတ်သစ် အနုပညာ ဝေဖန်မှု",
+    "category": "Arts",
+    "koreanExample": "현대미술비평을 작성합니다.",
+    "englishExample": "I write contemporary art criticism."
+  },
+  {
+    "korean": "신경생리학",
+    "myanmar": "အာရုံကြော ဇီဝကမ္မဗေဒ",
+    "category": "Body",
+    "koreanExample": "신경생리학을 공부합니다.",
+    "englishExample": "I study neurophysiology."
+  },
+  {
+    "korean": "거시경제정책",
+    "myanmar": "ကြီးမားသော စီးပွားရေး မူဝါဒ",
+    "category": "Business & Economics",
+    "koreanExample": "거시경제정책을 수립합니다.",
+    "englishExample": "I establish macroeconomic policy."
+  },
+  {
+    "korean": "미디어융합",
+    "myanmar": "မီဒီယာ ပေါင်းစည်းမှု",
+    "category": "Communication & Media",
+    "koreanExample": "미디어융합을 추진합니다.",
+    "englishExample": "I promote media convergence."
+  },
+  {
+    "korean": "문화다元주의",
+    "myanmar": "ယဉ်ကျေးမှု မျိုးစုံ",
+    "category": "Culture & Arts",
+    "koreanExample": "문화다元주의를 지지합니다.",
+    "englishExample": "I support cultural pluralism."
+  },
+  {
+    "korean": "상황적대화",
+    "myanmar": "အခြေအနေ စကားပြောဆို",
+    "category": "Daily conversation",
+    "koreanExample": "상황적대화를 나눕니다.",
+    "englishExample": "I engage in situational conversation."
+  },
+  {
+    "korean": "혁신교육학",
+    "myanmar": "ဆန်းသစ်မှု ပညာရေး",
+    "category": "Education",
+    "koreanExample": "혁신교육학을 적용합니다.",
+    "englishExample": "I apply innovative pedagogy."
+  },
+  {
+    "korean": "정서조절",
+    "myanmar": "စိတ်ခံစားမှု ထိန်းညှိခြင်း",
+    "category": "Emotions",
+    "koreanExample": "정서조절을 연습합니다.",
+    "englishExample": "I practice emotional regulation."
+  },
+  {
+    "korean": "영화미학",
+    "myanmar": "ရုပ်ရှင် အလှအပ",
+    "category": "Film Studies",
+    "koreanExample": "영화미학을 분석합니다.",
+    "englishExample": "I analyze film aesthetics."
+  },
+  {
+    "korean": "포괄적이해",
+    "myanmar": "ကျယ်ပြန့်သော နားလည်မှု",
+    "category": "General",
+    "koreanExample": "포괄적이해를 추구합니다.",
+    "englishExample": "I pursue comprehensive understanding."
+  },
+  {
+    "korean": "시간성",
+    "myanmar": "အချိန်",
+    "category": "History & Time",
+    "koreanExample": "시간성을 탐구합니다.",
+    "englishExample": "I explore temporality."
+  },
+  {
+    "korean": "창의적취미",
+    "myanmar": "ဖန်တီးမှု အပန်းဖြေ",
+    "category": "Hobbies",
+    "koreanExample": "창의적취미를 즐깁니다.",
+    "englishExample": "I enjoy creative hobbies."
+  },
+  {
+    "korean": "법적구제",
+    "myanmar": "ဥပဒေ ကယ်ဆယ်ရေး",
+    "category": "Legal",
+    "koreanExample": "법적구제를 요청합니다.",
+    "englishExample": "I request legal remedy."
+  },
+  {
+    "korean": "규제혁신",
+    "myanmar": "စည်းမျဉ်း ဆန်းသစ်မှု",
+    "category": "Legal & Administrative",
+    "koreanExample": "규제혁신을 추진합니다.",
+    "englishExample": "I promote regulatory innovation."
+  },
+  {
+    "korean": "통합의료",
+    "myanmar": "ပေါင်းစည်းထားသော ဆေးကုသမှု",
+    "category": "Medical & Health",
+    "koreanExample": "통합의료를 실천합니다.",
+    "englishExample": "I practice integrative medicine."
+  },
+  {
+    "korean": "전자음악학",
+    "myanmar": "အီလက်ထရွန်နစ် ဂီတ",
+    "category": "Music",
+    "koreanExample": "전자음악학을 연구합니다.",
+    "englishExample": "I study electronic musicology."
+  },
+  {
+    "korean": "현상학적철학",
+    "myanmar": "ဖြစ်ရပ် ဒဿနိကဗေဒ",
+    "category": "Philosophy",
+    "koreanExample": "현상학적철학을 탐구합니다.",
+    "englishExample": "I explore phenomenological philosophy."
+  },
+  {
+    "korean": "생명윤리",
+    "myanmar": "အသက် ကျင့်ဝတ်",
+    "category": "Philosophy & Ethics",
+    "koreanExample": "생명윤리를 논의합니다.",
+    "englishExample": "I discuss bioethics."
+  },
+  {
+    "korean": "융합과학",
+    "myanmar": "ပေါင်းစည်းထားသော သိပ္ပံ",
+    "category": "Science",
+    "koreanExample": "융합과학을 추진합니다.",
+    "englishExample": "I promote convergence science."
+  },
+  {
+    "korean": "지속가능소비",
+    "myanmar": "ရေရှည် စားသုံးမှု",
+    "category": "Shopping",
+    "koreanExample": "지속가능소비를 실천합니다.",
+    "englishExample": "I practice sustainable consumption."
+  },
+  {
+    "korean": "사회적자본",
+    "myanmar": "လူမှုရေး အရင်းအနှီး",
+    "category": "Social & Political",
+    "koreanExample": "사회적자본을 축적합니다.",
+    "englishExample": "I accumulate social capital."
+  },
+  {
+    "korean": "정량사회과학",
+    "myanmar": "အရေအတွက် လူမှုရေး သိပ္ပံ",
+    "category": "Social Science",
+    "koreanExample": "정량사회과학을 연구합니다.",
+    "englishExample": "I study quantitative social science."
+  },
+  {
+    "korean": "디지털사회",
+    "myanmar": "ဒစ်ဂျစ်တယ် လူ့အဖွဲ့အစည်း",
+    "category": "Society",
+    "koreanExample": "디지털사회를 분석합니다.",
+    "englishExample": "I analyze digital society."
+  },
+  {
+    "korean": "시간인식론",
+    "myanmar": "အချိန် သိမြင်မှု",
+    "category": "Time",
+    "koreanExample": "시간인식론을 탐구합니다.",
+    "englishExample": "I explore temporal epistemology."
+  },
+  {
+    "korean": "형이상학적실재론",
+    "myanmar": "ရူပဗေဒ အထက် လက်တွေ့",
+    "category": "Abstract concepts",
+    "koreanExample": "형이상학적실재론을 탐구합니다.",
+    "englishExample": "I explore metaphysical realism."
+  },
+  {
+    "korean": "지식융합학",
+    "myanmar": "အသိပညာ ပေါင်းစည်းမှု",
+    "category": "Academic & Intellectual",
+    "koreanExample": "지식융합학을 연구합니다.",
+    "englishExample": "I study knowledge convergence."
+  },
+  {
+    "korean": "인식론적전환",
+    "myanmar": "သိမြင်မှု ပြောင်းလဲမှု",
+    "category": "Advanced vocabulary",
+    "koreanExample": "인식론적전환을 경험합니다.",
+    "englishExample": "I experience an epistemological shift."
+  },
+  {
+    "korean": "유기농업생태학",
+    "myanmar": "အော်ဂဲနစ် စိုက်ပျိုးရေး ဂေဟစနစ်",
+    "category": "Agriculture",
+    "koreanExample": "유기농업생태학을 연구합니다.",
+    "englishExample": "I study organic agricultural ecology."
+  },
+  {
+    "korean": "파라메트릭설계",
+    "myanmar": "အချက်အလက် ဒီဇိုင်း",
+    "category": "Architecture",
+    "koreanExample": "파라메트릭설계를 적용합니다.",
+    "englishExample": "I apply parametric design."
+  },
+  {
+    "korean": "텍스타일공학",
+    "myanmar": "အထည်အလိပ် အင်ဂျင်နီယာ",
+    "category": "Clothing",
+    "koreanExample": "텍스타일공학을 적용합니다.",
+    "englishExample": "I apply textile engineering."
+  },
+  {
+    "korean": "색채측정학",
+    "myanmar": "အရောင် တိုင်းတာမှု",
+    "category": "Colors",
+    "koreanExample": "색채측정학을 연구합니다.",
+    "englishExample": "I study colorimetry."
+  },
+  {
+    "korean": "의사소통이론",
+    "myanmar": "ဆက်သွယ်ရေး သီအိုရီ",
+    "category": "Communication",
+    "koreanExample": "의사소통이론을 분석합니다.",
+    "englishExample": "I analyze communication theory."
+  },
+  {
+    "korean": "신경망컴퓨팅",
+    "myanmar": "အာရုံကြော ကွန်ပျူတာ",
+    "category": "Computer Science",
+    "koreanExample": "신경망컴퓨팅을 개발합니다.",
+    "englishExample": "I develop neural network computing."
+  },
+  {
+    "korean": "제도경제학",
+    "myanmar": "စနစ် စီးပွားရေး",
+    "category": "Economics",
+    "koreanExample": "제도경제학을 연구합니다.",
+    "englishExample": "I study institutional economics."
+  },
+  {
+    "korean": "혼합연구방법론",
+    "myanmar": "ရောနှော သုတေသန နည်းလမ်း",
+    "category": "Education & Research",
+    "koreanExample": "혼합연구방법론을 적용합니다.",
+    "englishExample": "I apply mixed research methodology."
+  },
+  {
+    "korean": "자연자본",
+    "myanmar": "သဘာဝ အရင်းအနှီး",
+    "category": "Environment & Nature",
+    "koreanExample": "자연자본을 보존합니다.",
+    "englishExample": "I preserve natural capital."
+  },
+  {
+    "korean": "생태발자국",
+    "myanmar": "ဂေဟစနစ် ခြေရာ",
+    "category": "Environmental Science",
+    "koreanExample": "생태발자국을 계산합니다.",
+    "englishExample": "I calculate ecological footprint."
+  },
+  {
+    "korean": "가족체계이론",
+    "myanmar": "မိသားစု စနစ် သီအိုရီ",
+    "category": "Family",
+    "koreanExample": "가족체계이론을 연구합니다.",
+    "englishExample": "I study family systems theory."
+  },
+  {
+    "korean": "식품생명공학",
+    "myanmar": "အစားအစာ ဇီဝ အင်ဂျင်နီယာ",
+    "category": "Food",
+    "koreanExample": "식품생명공학을 연구합니다.",
+    "englishExample": "I study food biotechnology."
+  },
+  {
+    "korean": "다층거버넌스",
+    "myanmar": "မျိုးစုံ အလွှာ အုပ်ချုပ်မှု",
+    "category": "Government",
+    "koreanExample": "다층거버넌스를 구축합니다.",
+    "englishExample": "I build multi-level governance."
+  },
+  {
+    "korean": "비교법학",
+    "myanmar": "နှိုင်းယှဉ် ဥပဒေ",
+    "category": "Law",
+    "koreanExample": "비교법학을 연구합니다.",
+    "englishExample": "I study comparative law."
+  },
+  {
+    "korean": "생태계건강",
+    "myanmar": "ဂေဟစနစ် ကျန်းမာရေး",
+    "category": "Nature",
+    "koreanExample": "생태계건강을 평가합니다.",
+    "englishExample": "I assess ecosystem health."
+  },
+  {
+    "korean": "복잡계이론",
+    "myanmar": "ရှုပ်ထွေးသော စနစ် သီအိုရီ",
+    "category": "Numbers",
+    "koreanExample": "복잡계이론을 연구합니다.",
+    "englishExample": "I study complex systems theory."
+  },
+  {
+    "korean": "정치생태학",
+    "myanmar": "နိုင်ငံရေး ဂေဟစနစ်",
+    "category": "Political Science",
+    "koreanExample": "정치생태학을 연구합니다.",
+    "englishExample": "I study political ecology."
+  },
+  {
+    "korean": "종교현상학",
+    "myanmar": "ဘာသာရေး ဖြစ်ရပ်",
+    "category": "Religious Studies",
+    "koreanExample": "종교현상학을 분석합니다.",
+    "englishExample": "I analyze phenomenology of religion."
+  },
+  {
+    "korean": "네트워크사회학",
+    "myanmar": "ကွန်ရက် လူမှုရေး",
+    "category": "Sociology",
+    "koreanExample": "네트워크사회학을 연구합니다.",
+    "englishExample": "I study network sociology."
+  },
+  {
+    "korean": "로봇윤리학",
+    "myanmar": "ရိုဘော့ ကျင့်ဝတ်",
+    "category": "Technology",
+    "koreanExample": "로봇윤리학을 논의합니다.",
+    "englishExample": "I discuss robot ethics."
+  },
+  {
+    "korean": "관광지리학",
+    "myanmar": "ခရီးသွား ပထဝီဝင်",
+    "category": "Travel",
+    "koreanExample": "관광지리학을 연구합니다.",
+    "englishExample": "I study tourism geography."
+  },
+  {
+    "korean": "초학제적인",
+    "myanmar": "ဘာသာရပ် အထက်",
+    "category": "Advanced adjectives",
+    "koreanExample": "초학제적인 연구가 필요합니다.",
+    "englishExample": "Transdisciplinary research is needed."
+  },
+  {
+    "korean": "융성하다",
+    "myanmar": "ဖွံ့ဖြိုးသည်",
+    "category": "Advanced verbs",
+    "koreanExample": "기술이 융성합니다.",
+    "englishExample": "Technology flourishes."
+  },
+  {
+    "korean": "동물행동학",
+    "myanmar": "တိရစ္ဆာန် အပြုအမူ",
+    "category": "Animals",
+    "koreanExample": "동물행동학을 연구합니다.",
+    "englishExample": "I study ethology."
+  },
+  {
+    "korean": "경영전략론",
+    "myanmar": "စီမံခန့်ခွဲမှု နည်းဗျူဟာ",
+    "category": "Business",
+    "koreanExample": "경영전략론을 연구합니다.",
+    "englishExample": "I study business strategy."
+  },
+  {
+    "korean": "미디어생태학",
+    "myanmar": "မီဒီယာ ဂေဟစနစ်",
+    "category": "Communication & Media",
+    "koreanExample": "미디어생태학을 연구합니다.",
+    "englishExample": "I study media ecology."
+  },
+  {
+    "korean": "대화분석",
+    "myanmar": "စကားပြောဆို ခွဲခြမ်းစိတ်ဖြာမှု",
+    "category": "Daily conversation",
+    "koreanExample": "대화분석을 수행합니다.",
+    "englishExample": "I perform conversation analysis."
+  },
+  {
+    "korean": "감정지능",
+    "myanmar": "စိတ်ခံစားမှု ဉာဏ်ရည်",
+    "category": "Emotions",
+    "koreanExample": "감정지능을 개발합니다.",
+    "englishExample": "I develop emotional intelligence."
+  },
+  {
+    "korean": "종합적사고",
+    "myanmar": "စုစုပေါင်း စဉ်းစားမှု",
+    "category": "General",
+    "koreanExample": "종합적사고를 개발합니다.",
+    "englishExample": "I develop comprehensive thinking."
+  },
+  {
+    "korean": "지역지리학",
+    "myanmar": "ဒေသ ပထဝီဝင်",
+    "category": "Geography",
+    "koreanExample": "지역지리학을 연구합니다.",
+    "englishExample": "I study regional geography."
+  },
+  {
+    "korean": "시간철학",
+    "myanmar": "အချိန် ဒဿနိကဗေဒ",
+    "category": "History & Time",
+    "koreanExample": "시간철학을 탐구합니다.",
+    "englishExample": "I explore philosophy of time."
+  },
+  {
+    "korean": "취미심리학",
+    "myanmar": "အပန်းဖြေ စိတ်ပညာ",
+    "category": "Hobbies",
+    "koreanExample": "취미심리학을 연구합니다.",
+    "englishExample": "I study hobby psychology."
+  },
+  {
+    "korean": "스마트리빙",
+    "myanmar": "စမတ် နေထိုင်မှု",
+    "category": "Home",
+    "koreanExample": "스마트리빙을 실현합니다.",
+    "englishExample": "I realize smart living."
+  },
+  {
+    "korean": "법사회학",
+    "myanmar": "ဥပဒေ လူမှုရေး",
+    "category": "Legal",
+    "koreanExample": "법사회학을 연구합니다.",
+    "englishExample": "I study sociology of law."
+  },
+  {
+    "korean": "응용언어학",
+    "myanmar": "လက်တွေ့ ဘာသာဗေဒ",
+    "category": "Linguistics",
+    "koreanExample": "응용언어학을 연구합니다.",
+    "englishExample": "I study applied linguistics."
+  },
+  {
+    "korean": "공중의학",
+    "myanmar": "လူထု ဆေးပညာ",
+    "category": "Medical & Health",
+    "koreanExample": "공중의학을 연구합니다.",
+    "englishExample": "I study public health medicine."
+  },
+  {
+    "korean": "우주화학",
+    "myanmar": "အာကာသ ဓာတုဗေဒ",
+    "category": "Science & Space",
+    "koreanExample": "우주화학을 연구합니다.",
+    "englishExample": "I study astrochemistry."
+  },
+  {
+    "korean": "소비자행동학",
+    "myanmar": "စားသုံးသူ အပြုအမူ",
+    "category": "Shopping",
+    "koreanExample": "소비자행동학을 연구합니다.",
+    "englishExample": "I study consumer behavior."
+  },
+  {
+    "korean": "질적연구",
+    "myanmar": "အရည်အသွေး သုတေသန",
+    "category": "Social Science",
+    "koreanExample": "질적연구를 수행합니다.",
+    "englishExample": "I conduct qualitative research."
+  },
+  {
+    "korean": "정보사회",
+    "myanmar": "အချက်အလက် လူ့အဖွဲ့အစည်း",
+    "category": "Society",
+    "koreanExample": "정보사회를 분석합니다.",
+    "englishExample": "I analyze information society."
+  },
+  {
+    "korean": "시간인식",
+    "myanmar": "အချိန် သိမြင်မှု",
+    "category": "Time",
+    "koreanExample": "시간인식을 연구합니다.",
+    "englishExample": "I study time perception."
+  },
+  {
+    "korean": "기후과학",
+    "myanmar": "ရာသီဥတု သိပ္ပံ",
+    "category": "Weather",
+    "koreanExample": "기후과학을 연구합니다.",
+    "englishExample": "I study climate science."
+  },
+  {
+    "korean": "직업심리학",
+    "myanmar": "အလုပ် စိတ်ပညာ",
+    "category": "Work",
+    "koreanExample": "직업심리학을 연구합니다.",
+    "englishExample": "I study occupational psychology."
+  },
+  {
+    "korean": "현상학적환원",
+    "myanmar": "ဖြစ်ရပ် လျှော့ချမှု",
+    "category": "Abstract concepts",
+    "koreanExample": "현상학적환원을 수행합니다.",
+    "englishExample": "I perform phenomenological reduction."
+  },
+  {
+    "korean": "지식구조론",
+    "myanmar": "အသိပညာ ဖွဲ့စည်းပုံ",
+    "category": "Academic & Intellectual",
+    "koreanExample": "지식구조론을 연구합니다.",
+    "englishExample": "I study knowledge structure theory."
+  },
+  {
+    "korean": "선구적인",
+    "myanmar": "ရှေ့ဆောင်သော",
+    "category": "Advanced adjectives",
+    "koreanExample": "선구적인 연구가 필요합니다.",
+    "englishExample": "Pioneering research is needed."
+  },
+  {
+    "korean": "패러다임전환",
+    "myanmar": "စံနမူနာ ပြောင်းလဲမှု",
+    "category": "Advanced vocabulary",
+    "koreanExample": "패러다임전환을 경험합니다.",
+    "englishExample": "I experience a paradigm shift."
+  },
+  {
+    "korean": "농업생물학",
+    "myanmar": "စိုက်ပျိုးရေး ဇီဝ",
+    "category": "Agriculture",
+    "koreanExample": "농업생물학을 연구합니다.",
+    "englishExample": "I study agricultural biology."
+  },
+  {
+    "korean": "동물복지학",
+    "myanmar": "တိရစ္ဆာန် ကောင်းကျိုး",
+    "category": "Animals",
+    "koreanExample": "동물복지학을 연구합니다.",
+    "englishExample": "I study animal welfare science."
+  },
+  {
+    "korean": "모듈러건축",
+    "myanmar": "အစိတ်အပိုင်း ဗိသုကာ",
+    "category": "Architecture",
+    "koreanExample": "모듈러건축을 설계합니다.",
+    "englishExample": "I design modular architecture."
+  },
+  {
+    "korean": "예술치료학",
+    "myanmar": "အနုပညာ ကုသမှု",
+    "category": "Arts",
+    "koreanExample": "예술치료학을 실천합니다.",
+    "englishExample": "I practice art therapy."
+  },
+  {
+    "korean": "신경해부학",
+    "myanmar": "အာရုံကြော ခန္ဓာဗေဒ",
+    "category": "Body",
+    "koreanExample": "신경해부학을 공부합니다.",
+    "englishExample": "I study neuroanatomy."
+  },
+  {
+    "korean": "기업문화",
+    "myanmar": "လုပ်ငန်း ယဉ်ကျေးမှု",
+    "category": "Business",
+    "koreanExample": "기업문화를 구축합니다.",
+    "englishExample": "I build corporate culture."
+  },
+  {
+    "korean": "공공경제학",
+    "myanmar": "အများပြည်သူ စီးပွားရေး",
+    "category": "Business & Economics",
+    "koreanExample": "공공경제학을 연구합니다.",
+    "englishExample": "I study public economics."
+  },
+  {
+    "korean": "스마트패션",
+    "myanmar": "စမတ် ဖက်ရှင်",
+    "category": "Clothing",
+    "koreanExample": "스마트패션을 개발합니다.",
+    "englishExample": "I develop smart fashion."
+  },
+  {
+    "korean": "색채공간론",
+    "myanmar": "အရောင် နေရာ",
+    "category": "Colors",
+    "koreanExample": "색채공간론을 연구합니다.",
+    "englishExample": "I study color space theory."
+  },
+  {
+    "korean": "비언어커뮤니케이션",
+    "myanmar": "စကားမပြော ဆက်သွယ်ရေး",
+    "category": "Communication",
+    "koreanExample": "비언어커뮤니케이션을 분석합니다.",
+    "englishExample": "I analyze nonverbal communication."
+  },
+  {
+    "korean": "미디어법학",
+    "myanmar": "မီဒီယာ ဥပဒေ",
+    "category": "Communication & Media",
+    "koreanExample": "미디어법학을 연구합니다.",
+    "englishExample": "I study media law."
+  },
+  {
+    "korean": "프로그래밍언어",
+    "myanmar": "ကွန်ပျူတာ ဘာသာစကား",
+    "category": "Computer Science",
+    "koreanExample": "프로그래밍언어를 개발합니다.",
+    "englishExample": "I develop programming languages."
+  },
+  {
+    "korean": "문화정체성",
+    "myanmar": "ယဉ်ကျေးမှု ကိုယ်ပိုင်",
+    "category": "Culture & Arts",
+    "koreanExample": "문화정체성을 탐구합니다.",
+    "englishExample": "I explore cultural identity."
+  },
+  {
+    "korean": "대화전략",
+    "myanmar": "စကားပြောဆို နည်းဗျူဟာ",
+    "category": "Daily conversation",
+    "koreanExample": "대화전략을 학습합니다.",
+    "englishExample": "I learn conversation strategies."
+  },
+  {
+    "korean": "화폐경제학",
+    "myanmar": "ငွေကြေး စီးပွားရေး",
+    "category": "Economics",
+    "koreanExample": "화폐경제학을 연구합니다.",
+    "englishExample": "I study monetary economics."
+  },
+  {
+    "korean": "디지털교육",
+    "myanmar": "ဒစ်ဂျစ်တယ် ပညာရေး",
+    "category": "Education",
+    "koreanExample": "디지털교육을 실시합니다.",
+    "englishExample": "I implement digital education."
+  },
+  {
+    "korean": "교육과정론",
+    "myanmar": "ပညာရေး သင်ရိုး",
+    "category": "Education & Research",
+    "koreanExample": "교육과정론을 연구합니다.",
+    "englishExample": "I study curriculum theory."
+  },
+  {
+    "korean": "감정표현",
+    "myanmar": "စိတ်ခံစားမှု ဖော်ပြမှု",
+    "category": "Emotions",
+    "koreanExample": "감정표현을 개발합니다.",
+    "englishExample": "I develop emotional expression."
+  },
+  {
+    "korean": "건축공학",
+    "myanmar": "ဗိသုကာ အင်ဂျင်နီယာ",
+    "category": "Engineering",
+    "koreanExample": "건축공학을 적용합니다.",
+    "englishExample": "I apply architectural engineering."
+  },
+  {
+    "korean": "환경정책학",
+    "myanmar": "ပတ်ဝန်းကျင် မူဝါဒ",
+    "category": "Environment",
+    "koreanExample": "환경정책학을 연구합니다.",
+    "englishExample": "I study environmental policy."
+  },
+  {
+    "korean": "생태복원학",
+    "myanmar": "ဂေဟစနစ် ပြန်လည်ထူထောင်မှု",
+    "category": "Environment & Nature",
+    "koreanExample": "생태복원학을 연구합니다.",
+    "englishExample": "I study ecological restoration."
+  },
+  {
+    "korean": "환경복원학",
+    "myanmar": "ပတ်ဝန်းကျင် ပြန်လည်ထူထောင်မှု",
+    "category": "Environmental Science",
+    "koreanExample": "환경복원학을 연구합니다.",
+    "englishExample": "I study environmental restoration."
+  },
+  {
+    "korean": "가족상담학",
+    "myanmar": "မိသားစု အကြံပေးမှု",
+    "category": "Family",
+    "koreanExample": "가족상담학을 실천합니다.",
+    "englishExample": "I practice family counseling."
+  },
+  {
+    "korean": "영화제작학",
+    "myanmar": "ရုပ်ရှင် ထုတ်လုပ်မှု",
+    "category": "Film Studies",
+    "koreanExample": "영화제작학을 연구합니다.",
+    "englishExample": "I study film production."
+  },
+  {
+    "korean": "재무관리",
+    "myanmar": "ငွေကြေး စီမံခန့်ခွဲမှု",
+    "category": "Finance",
+    "koreanExample": "재무관리를 수행합니다.",
+    "englishExample": "I perform financial management."
+  },
+  {
+    "korean": "분자요리학",
+    "myanmar": "မော်လီကျူး ချက်ပြုတ်မှု",
+    "category": "Food",
+    "koreanExample": "분자요리학을 연구합니다.",
+    "englishExample": "I study molecular gastronomy."
+  },
+  {
+    "korean": "융합적사고",
+    "myanmar": "ပေါင်းစည်းထားသော စဉ်းစားမှု",
+    "category": "General",
+    "koreanExample": "융합적사고를 개발합니다.",
+    "englishExample": "I develop convergent thinking."
+  },
+  {
+    "korean": "인문지리학",
+    "myanmar": "လူသား ပထဝီဝင်",
+    "category": "Geography",
+    "koreanExample": "인문지리학을 연구합니다.",
+    "englishExample": "I study human geography."
+  },
+  {
+    "korean": "정부혁신",
+    "myanmar": "အစိုးရ ဆန်းသစ်မှု",
+    "category": "Government",
+    "koreanExample": "정부혁신을 추진합니다.",
+    "englishExample": "I promote government innovation."
+  },
+  {
+    "korean": "웰빙",
+    "myanmar": "ကောင်းမွန်သော နေထိုင်မှု",
+    "category": "Health",
+    "koreanExample": "웰빙을 추구합니다.",
+    "englishExample": "I pursue wellness."
+  },
+  {
+    "korean": "구술역사",
+    "myanmar": "နှုတ်ပြော သမိုင်း",
+    "category": "History",
+    "koreanExample": "구술역사를 기록합니다.",
+    "englishExample": "I record oral history."
+  },
+  {
+    "korean": "시간사회학",
+    "myanmar": "အချိန် လူမှုရေး",
+    "category": "History & Time",
+    "koreanExample": "시간사회학을 연구합니다.",
+    "englishExample": "I study sociology of time."
+  },
+  {
+    "korean": "취미치료",
+    "myanmar": "အပန်းဖြေ ကုသမှု",
+    "category": "Hobbies",
+    "koreanExample": "취미치료를 시행합니다.",
+    "englishExample": "I perform hobby therapy."
+  },
+  {
+    "korean": "홈디자인",
+    "myanmar": "အိမ် ဒီဇိုင်း",
+    "category": "Home",
+    "koreanExample": "홈디자인을 계획합니다.",
+    "englishExample": "I plan home design."
+  },
+  {
+    "korean": "국제법학",
+    "myanmar": "နိုင်ငံတကာ ဥပဒေ",
+    "category": "Law",
+    "koreanExample": "국제법학을 연구합니다.",
+    "englishExample": "I study international law."
+  },
+  {
+    "korean": "법경제학",
+    "myanmar": "ဥပဒေ စီးပွားရေး",
+    "category": "Legal",
+    "koreanExample": "법경제학을 연구합니다.",
+    "englishExample": "I study law and economics."
+  },
+  {
+    "korean": "규제행정",
+    "myanmar": "စည်းမျဉ်း စီမံခန့်ခွဲမှု",
+    "category": "Legal & Administrative",
+    "koreanExample": "규제행정을 강화합니다.",
+    "englishExample": "I strengthen regulatory administration."
+  },
+  {
+    "korean": "언어학습",
+    "myanmar": "ဘာသာစကား သင်ယူမှု",
+    "category": "Linguistics",
+    "koreanExample": "언어학습을 연구합니다.",
+    "englishExample": "I study language acquisition."
+  },
+  {
+    "korean": "문학이론",
+    "myanmar": "စာပေ သီအိုရီ",
+    "category": "Literature",
+    "koreanExample": "문학이론을 연구합니다.",
+    "englishExample": "I study literary theory."
+  },
+  {
+    "korean": "집합론",
+    "myanmar": "စုစည်းမှု",
+    "category": "Mathematics",
+    "koreanExample": "집합론을 공부합니다.",
+    "englishExample": "I study set theory."
+  },
+  {
+    "korean": "응급의학",
+    "myanmar": "အရေးပေါ် ဆေးပညာ",
+    "category": "Medical",
+    "koreanExample": "응급의학을 실천합니다.",
+    "englishExample": "I practice emergency medicine."
+  },
+  {
+    "korean": "건강증진학",
+    "myanmar": "ကျန်းမာရေး တိုးတက်မှု",
+    "category": "Medical & Health",
+    "koreanExample": "건강증진학을 연구합니다.",
+    "englishExample": "I study health promotion."
+  },
+  {
+    "korean": "내과학",
+    "myanmar": "အတွင်း ဆေးပညာ",
+    "category": "Medicine",
+    "koreanExample": "내과학을 연구합니다.",
+    "englishExample": "I study internal medicine."
+  },
+  {
+    "korean": "음악인지과학",
+    "myanmar": "ဂီတ သိမြင်မှု သိပ္ပံ",
+    "category": "Music",
+    "koreanExample": "음악인지과학을 연구합니다.",
+    "englishExample": "I study music cognition science."
+  },
+  {
+    "korean": "자연관찰",
+    "myanmar": "သဘာဝ လေ့လာမှု",
+    "category": "Nature",
+    "koreanExample": "자연관찰을 수행합니다.",
+    "englishExample": "I perform nature observation."
+  },
+  {
+    "korean": "계산학",
+    "myanmar": "တွက်ချက်မှု",
+    "category": "Numbers",
+    "koreanExample": "계산학을 연구합니다.",
+    "englishExample": "I study computational science."
+  },
+  {
+    "korean": "현대철학",
+    "myanmar": "ခေတ်သစ် ဒဿနိကဗေဒ",
+    "category": "Philosophy",
+    "koreanExample": "현대철학을 탐구합니다.",
+    "englishExample": "I explore modern philosophy."
+  },
+  {
+    "korean": "의료윤리",
+    "myanmar": "ဆေးကုသမှု ကျင့်ဝတ်",
+    "category": "Philosophy & Ethics",
+    "koreanExample": "의료윤리를 연구합니다.",
+    "englishExample": "I study medical ethics."
+  },
+  {
+    "korean": "국제관계학",
+    "myanmar": "နိုင်ငံတကာ ဆက်ဆံရေး",
+    "category": "Political Science",
+    "koreanExample": "국제관계학을 연구합니다.",
+    "englishExample": "I study international relations."
+  },
+  {
+    "korean": "이상심리학",
+    "myanmar": "ပုံမှန် မဟုတ်သော စိတ်ပညာ",
+    "category": "Psychology",
+    "koreanExample": "이상심리학을 연구합니다.",
+    "englishExample": "I study abnormal psychology."
+  },
+  {
+    "korean": "종교비교학",
+    "myanmar": "ဘာသာရေး နှိုင်းယှဉ်မှု",
+    "category": "Religious Studies",
+    "koreanExample": "종교비교학을 연구합니다.",
+    "englishExample": "I study comparative religion."
+  },
+  {
+    "korean": "기초과학",
+    "myanmar": "အခြေခံ သိပ္ပံ",
+    "category": "Science",
+    "koreanExample": "기초과학을 연구합니다.",
+    "englishExample": "I study basic science."
+  },
+  {
+    "korean": "우주탐사학",
+    "myanmar": "အာကာသ ရှာဖွေမှု",
+    "category": "Science & Space",
+    "koreanExample": "우주탐사학을 연구합니다.",
+    "englishExample": "I study space exploration."
+  },
+  {
+    "korean": "소비자심리학",
+    "myanmar": "စားသုံးသူ စိတ်ပညာ",
+    "category": "Shopping",
+    "koreanExample": "소비자심리학을 연구합니다.",
+    "englishExample": "I study consumer psychology."
+  },
+  {
+    "korean": "사회운동",
+    "myanmar": "လူမှုရေး လှုပ်ရှားမှု",
+    "category": "Social & Political",
+    "koreanExample": "사회운동을 분석합니다.",
+    "englishExample": "I analyze social movements."
+  },
+  {
+    "korean": "민족지학",
+    "myanmar": "လူမျိုး",
+    "category": "Social Science",
+    "koreanExample": "민족지학을 연구합니다.",
+    "englishExample": "I study ethnography."
+  },
+  {
+    "korean": "사회변화",
+    "myanmar": "လူမှုရေး ပြောင်းလဲမှု",
+    "category": "Society",
+    "koreanExample": "사회변화를 분석합니다.",
+    "englishExample": "I analyze social change."
+  },
+  {
+    "korean": "농촌사회학",
+    "myanmar": "ကျေးလက် လူမှုရေး",
+    "category": "Sociology",
+    "koreanExample": "농촌사회학을 연구합니다.",
+    "englishExample": "I study rural sociology."
+  },
+  {
+    "korean": "스포츠트레이닝",
+    "myanmar": "အားကစား လေ့ကျင့်မှု",
+    "category": "Sports",
+    "koreanExample": "스포츠트레이닝을 연구합니다.",
+    "englishExample": "I study sports training."
+  },
+  {
+    "korean": "바이오기술",
+    "myanmar": "ဇီဝ နည်းပညာ",
+    "category": "Technology",
+    "koreanExample": "바이오기술을 개발합니다.",
+    "englishExample": "I develop biotechnology."
+  },
+  {
+    "korean": "암호학",
+    "myanmar": "လျှို့ဝှက်ကုဒ်",
+    "category": "Technology & IT",
+    "koreanExample": "암호학을 연구합니다.",
+    "englishExample": "I study cryptography."
+  },
+  {
+    "korean": "시간관리학",
+    "myanmar": "အချိန် စီမံခန့်ခွဲမှု",
+    "category": "Time",
+    "koreanExample": "시간관리학을 연구합니다.",
+    "englishExample": "I study time management."
+  },
+  {
+    "korean": "에코투어리즘",
+    "myanmar": "ဂေဟစနစ် ခရီးသွား",
+    "category": "Travel",
+    "koreanExample": "에코투어리즘을 추진합니다.",
+    "englishExample": "I promote ecotourism."
+  },
+  {
+    "korean": "기상예보학",
+    "myanmar": "ရာသီဥတု ခန့်မှန်းမှု",
+    "category": "Weather",
+    "koreanExample": "기상예보학을 연구합니다.",
+    "englishExample": "I study weather forecasting."
+  },
+  {
+    "korean": "조직심리학",
+    "myanmar": "အဖွဲ့အစည်း စိတ်ပညာ",
+    "category": "Work",
+    "koreanExample": "조직심리학을 연구합니다.",
+    "englishExample": "I study organizational psychology."
   }
 ]

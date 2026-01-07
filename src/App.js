@@ -18,7 +18,7 @@ function App() {
 
   // Load dictionary data
   useEffect(() => {
-    fetch('/data/dictionary.json')
+    fetch('/data/data.json')
       .then((res) => res.json())
       .then((data) => setDictionary(data))
       .catch((err) => console.error('Error loading dictionary:', err));
