@@ -123,6 +123,39 @@
   transform: rotate(0deg) scale(0.95);
 }
 
+.logout-btn {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  background: transparent;
+  border: 2px solid var(--border-color);
+  color: var(--text-secondary);
+  cursor: pointer;
+  padding: 0.5rem 0.75rem;
+  border-radius: 8px;
+  transition: var(--transition);
+  font-size: 0.875rem;
+  font-weight: 500;
+  font-family: 'Inter', sans-serif;
+}
+
+.logout-btn:hover {
+  background: rgba(220, 53, 69, 0.1);
+  border-color: #dc3545;
+  color: #dc3545;
+  transform: translateY(-1px);
+}
+
+.logout-btn:active {
+  transform: translateY(0);
+}
+
+.logout-btn svg {
+  flex-shrink: 0;
+  width: 18px;
+  height: 18px;
+}
+
 .language-btn {
   display: flex;
   align-items: center;
@@ -176,6 +209,17 @@
   .logo-text {
     font-size: 1.125rem;
   }
+
+  .logout-btn span {
+    display: none;
+  }
+
+  .logout-btn {
+    padding: 0.5rem;
+    width: 36px;
+    height: 36px;
+    justify-content: center;
+  }
 }
 
 @media (max-width: 480px) {
@@ -191,9 +235,15 @@
     font-size: 0.8125rem;
   }
 
-  .login-btn {
-    padding: 0.5rem 1rem;
-    font-size: 0.875rem;
+  .logout-btn {
+    width: 32px;
+    height: 32px;
+    padding: 0.375rem;
+  }
+
+  .logout-btn svg {
+    width: 16px;
+    height: 16px;
   }
 }
 

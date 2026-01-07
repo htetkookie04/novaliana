@@ -1,6 +1,6 @@
 import React from 'react';
 import './About.css';
-import kookieImage from '../image/Kookie.png';
+const kookieImage = '/assets/images/Kookie.png';
 
 export default function About({ darkMode }) {
   return (

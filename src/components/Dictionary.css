@@ -46,6 +46,14 @@
   background-position: right 1rem center;
   background-size: 12px;
   padding-right: 2.5rem;
+  /* Hide scrollbar in dropdown list (Firefox) */
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+
+/* Hide scrollbar in dropdown list for Chrome, Safari and Opera */
+.category-dropdown::-webkit-scrollbar {
+  display: none;
 }
 
 .category-dropdown:hover {
@@ -108,8 +116,16 @@
 .word-list-main {
   display: flex;
   flex-direction: column;
-  gap: 0;
+  gap: 1rem;
   margin-bottom: 2rem;
+  /* Hide scrollbar while allowing scroll */
+  scrollbar-width: none; /* Firefox */
+  -ms-overflow-style: none; /* IE and Edge */
+}
+
+/* Hide scrollbar for Chrome, Safari and Opera */
+.word-list-main::-webkit-scrollbar {
+  display: none;
 }
 
 .word-list-empty {

@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 
 // Read current dictionary
-const filePath = path.join(__dirname, 'public', 'data', 'dictionary.json');
+const filePath = path.join(__dirname, '..', '..', 'public', 'data', 'dictionary.json');
 const data = JSON.parse(fs.readFileSync(filePath, 'utf8'));
 
 console.log(`Original entries: ${data.length}`);

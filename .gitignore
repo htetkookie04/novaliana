@@ -30,3 +30,6 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+# Scripts (keep scripts folder but ignore temp files)
+scripts/*.tmp
+scripts/**/*.tmp

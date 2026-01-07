@@ -4,9 +4,11 @@ import Home from './components/Home';
 import Dictionary from './components/Dictionary';
 import WordDetail from './components/WordDetail';
 import About from './components/About';
+import Login from './components/Login';
 import './App.css';
 
 function App() {
+  const [isLoggedIn, setIsLoggedIn] = useState(false);
   const [currentPage, setCurrentPage] = useState('home');
   const [darkMode, setDarkMode] = useState(false);
   const [searchQuery, setSearchQuery] = useState('');
@@ -40,6 +42,14 @@ function App() {
     const savedLanguage = localStorage.getItem('language');
     if (savedLanguage) {
       setLanguage(savedLanguage);
+    }
+  }, []);
+
+  // Check if user is logged in on mount
+  useEffect(() => {
+    const loggedInUser = localStorage.getItem('isLoggedIn');
+    if (loggedInUser === 'true') {
+      setIsLoggedIn(true);
     }
   }, []);
 
@@ -86,6 +96,37 @@ function App() {
     }
   };
 
+  // Handle login success
+  const handleLoginSuccess = (username) => {
+    // Store login state
+    localStorage.setItem('isLoggedIn', 'true');
+    localStorage.setItem('loggedInUser', username);
+    setIsLoggedIn(true);
+    // Navigate to home page after successful login
+    setCurrentPage('home');
+  };
+
+  // Handle logout
+  const handleLogout = () => {
+    // Clear login state
+    setIsLoggedIn(false);
+    // Remove login state from localStorage
+    localStorage.removeItem('isLoggedIn');
+    localStorage.removeItem('loggedInUser');
+    // Reset to home page (will show login page since isLoggedIn is false)
+    setCurrentPage('home');
+  };
+
+  // If not logged in, show only login page
+  if (!isLoggedIn) {
+    return (
+      <div className="app-container" data-theme={darkMode ? 'dark' : 'light'}>
+        <Login darkMode={darkMode} onLoginSuccess={handleLoginSuccess} />
+      </div>
+    );
+  }
+
+  // If logged in, show the main app with header and content
   return (
     <div className="app-container" data-theme={darkMode ? 'dark' : 'light'}>
       <Header 
@@ -93,6 +134,7 @@ function App() {
         onToggleTheme={toggleDarkMode}
         currentPage={currentPage}
         onNavigate={handleNavigation}
+        onLogout={handleLogout}
       />
       
       {currentPage === 'home' ? (

@@ -31,11 +31,11 @@ export default function WordCard({
         <div className="word-card-top">
           <div className="word-info-left">
             <h3 className="word-korean-detailed">{language === 'EN-KR' ? (english || korean) : korean}</h3>
-            <div className="word-meta">
-              {category && <span className="word-category">{category}</span>}
-              {pos && <span className="word-pos">{pos}</span>}
-              {level && <span className="word-level">{level}</span>}
-            </div>
+            {category && (
+              <div className="word-meta">
+                <span className="word-category">{category}</span>
+              </div>
+            )}
           </div>
           <div className="word-actions">
             <button className="arrow-btn" aria-label="View details">
@@ -54,8 +54,8 @@ export default function WordCard({
             </>
           ) : (
             <>
-          <p className="word-myanmar-detailed">{myanmar}</p>
-          {english && <p className="word-english">{english}</p>}
+              <p className="word-myanmar-detailed">{myanmar}</p>
+              {english && <p className="word-english">{english}</p>}
             </>
           )}
         </div>
